@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\tree\Tree\Tree\bin\Debug\Tree.exe.config
+C:\Users\Lenovo\Desktop\tree\Tree\Tree\bin\Debug\Tree.exe
+C:\Users\Lenovo\Desktop\tree\Tree\Tree\bin\Debug\Tree.pdb
+C:\Users\Lenovo\Desktop\tree\Tree\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\tree\Tree\Tree\obj\Debug\Tree.exe
+C:\Users\Lenovo\Desktop\tree\Tree\Tree\obj\Debug\Tree.pdb
